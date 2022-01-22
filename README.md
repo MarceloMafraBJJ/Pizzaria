@@ -11,4 +11,3 @@ This project was developed in
 The project consists of a virtual pizzeria.
 
 link: https://marcelomafrabjj.github.io/Pizzaria/
-# pizzeria
